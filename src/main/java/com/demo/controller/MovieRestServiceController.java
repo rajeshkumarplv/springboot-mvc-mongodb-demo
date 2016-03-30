@@ -12,9 +12,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.demo.domain.Movie;
-import com.demo.domain.Person;
 import com.demo.dto.MovieDTO;
-import com.demo.dto.PersonDTO;
 import com.demo.repository.MovieRepository;
 
 /**
